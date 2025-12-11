@@ -6,8 +6,7 @@
 ## About Me
 Aspiring mobile developer focused on **Flutter** and **Dart**.  
 Always curious about computer engineering and how things really work under the hood.  
-I like building apps that don’t just “run,” but actually **feel good to use**.
-
+My task is to gain knowledge and master a new profession.
 ---
 
 ## Skills
