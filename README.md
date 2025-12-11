@@ -1,16 +1,14 @@
 # Hi, I'm Rania 👋
-📍 Taraz | Student at JIHC
 
----
+📍 Taraz | Mobile Development Student at JIHC
 
-## About Me
-Aspiring mobile developer focused on **Flutter** and **Dart**.  
-Always curious about computer engineering and how things really work under the hood.  
-My task is to gain knowledge and master a new profession.
----
+**About Me**
+Aspiring mobile developer with a focus on Flutter and Dart.
+Passionate about computer engineering and understanding systems at a deeper level.
+Driven to gain hands-on experience and grow professionally.
 
-## Skills
-- **Flutter & Dart Development**  
-- **Mobile Application Design**  
-- **Debugging & Problem-Solving**  
-- **UI/UX Best Practices**
+**Skills**
+Flutter & Dart – building functional, well-structured apps
+Mobile App Design – UI/UX principles, navigation, and layouts
+Debugging & Problem-Solving – identifying and fixing issues efficiently
+Collaboration & Communication – teamwork and independent project work
